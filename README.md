@@ -55,4 +55,4 @@ Os dados estão em formato CSV e contêm informações como:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/analise-lojas-vendas.git
+git clone https://github.com/thalissakezia/analise-lojas-vendas.git
