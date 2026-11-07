@@ -1,8 +1,8 @@
 # Análise comparativa de desempenho de quatro lojas
 
-Projeto de análise exploratória de dados desenvolvido em Python com Pandas, Matplotlib, Seaborn e Folium. O objetivo é comparar indicadores de quatro lojas e apresentar evidências que apoiem uma decisão comercial.
+Projeto de análise exploratória de dados desenvolvido em Python com Pandas, Matplotlib e Seaborn. O objetivo é comparar indicadores de quatro lojas e apresentar evidências que apoiem uma decisão comercial.
 
-> **Status:** projeto de portfólio em revisão. Os dados utilizados são os arquivos públicos do desafio de Data Science da Alura.
+> **Status:** projeto de portfólio em revisão técnica. O notebook foi reorganizado e as verificações iniciais dos quatro CSVs foram realizadas; a execução integral em Jupyter/Colab ainda precisa ser confirmada.
 
 ## Pergunta de negócio
 
@@ -25,7 +25,6 @@ Cada registro contém produto, categoria, preço, frete, data da compra, vendedo
 - Pandas
 - Matplotlib
 - Seaborn
-- Folium
 - Jupyter Notebook / Google Colab
 
 ## Indicadores apurados
@@ -50,9 +49,9 @@ A leitura dos quatro arquivos retornou 9.435 registros no total. Os valores abai
 1. Comparação da soma dos preços registrados por loja.
 2. Distribuição de registros por categoria.
 3. Avaliação média dos clientes.
-4. Produtos com maior e menor frequência de registros.
+4. Produtos com maior frequência de registros.
 5. Comparação do frete médio.
-6. Distribuição geográfica dos registros e visualizações exploratórias com latitude e longitude.
+6. Distribuição geográfica dos registros por latitude e longitude.
 
 ## Conclusão responsável
 
@@ -83,11 +82,9 @@ Por isso, a recomendação comercial deve considerar qual objetivo tem maior pes
 
 ## Próximas melhorias
 
-- Organizar o notebook em etapas reproduzíveis, com funções reutilizáveis.
-- Validar dados ausentes, tipos, duplicidades e consistência das colunas.
-- Padronizar os indicadores e explicitar suas fórmulas.
-- Acrescentar gráficos comparativos consolidados e uma síntese executiva.
-- Registrar as versões das bibliotecas e instruções de execução.
+- Executar o notebook integralmente em Jupyter/Colab e revisar os resultados renderizados.
+- Registrar as versões das bibliotecas em um arquivo `requirements.txt`.
+- Avaliar a inclusão de análises temporais e de indicadores adicionais, caso sejam relevantes para a pergunta de negócio.
 
 ---
 Projeto de portfólio — análise exploratória de dados.
