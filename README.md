@@ -91,3 +91,15 @@ Por isso, a recomendação comercial deve considerar qual objetivo tem maior pes
 
 ---
 Projeto de portfólio — análise exploratória de dados.
+
+
+## Visualizações
+
+### Comparativo de indicadores
+
+![Comparativo de indicadores das quatro lojas](images/comparativo_indicadores.svg)
+
+### Resumo executivo
+
+![Resumo executivo dos destaques por indicador](images/resumo_executivo.svg)
+
