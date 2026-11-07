@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#f7f9fc"/><text x="60" y="65" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#172033">Resumo executivo</text>
+<text x="60" y="100" font-family="Arial,sans-serif" font-size="17" fill="#596579">As lojas apresentam vantagens diferentes — não existe uma vencedora em todos os critérios.</text>
+<g font-family="Arial,sans-serif">
+<rect x="60" y="145" width="330" height="160" rx="14" fill="#e9f0fc"/><text x="85" y="185" font-size="17" fill="#263247">Maior soma dos preços</text><text x="85" y="230" font-size="31" font-weight="700" fill="#2458a6">Loja 1</text><text x="85" y="270" font-size="20" fill="#263247">R$ 1.534.509,12</text>
+<rect x="435" y="145" width="330" height="160" rx="14" fill="#e8f4f0"/><text x="460" y="185" font-size="17" fill="#263247">Melhor avaliação média</text><text x="460" y="230" font-size="31" font-weight="700" fill="#16745f">Loja 3</text><text x="460" y="270" font-size="20" fill="#263247">4,05 de 5</text>
+<rect x="810" y="145" width="330" height="160" rx="14" fill="#fff2df"/><text x="835" y="185" font-size="17" fill="#263247">Menor frete médio</text><text x="835" y="230" font-size="31" font-weight="700" fill="#a76617">Loja 4</text><text x="835" y="270" font-size="20" fill="#263247">R$ 31,28</text>
+</g>
+<text x="60" y="355" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#172033">Interpretação</text>
+<text x="60" y="385" font-family="Arial,sans-serif" font-size="16" fill="#596579">A escolha deve considerar a prioridade comercial e outros fatores não disponíveis nesta base, como margem e quantidade efetiva vendida.</text>
+</svg>
