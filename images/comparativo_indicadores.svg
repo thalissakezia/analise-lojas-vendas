@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f7f9fc"/><text x="60" y="62" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#172033">Comparativo de indicadores — quatro lojas</text>
+<text x="60" y="96" font-family="Arial,sans-serif" font-size="16" fill="#596579">Soma dos preços registrados, avaliação média e frete médio</text>
+<g font-family="Arial,sans-serif" fill="#172033">
+<text x="70" y="155" font-size="20" font-weight="700">Soma dos preços registrados (R$)</text>
+<text x="70" y="340" font-size="20" font-weight="700">Avaliação média (0 a 5)</text>
+<text x="70" y="505" font-size="20" font-weight="700">Frete médio (R$)</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="16" fill="#263247">
+<text x="80" y="205">Loja 1</text><rect x="170" y="183" width="760" height="30" rx="6" fill="#356ac3"/><text x="950" y="205">R$ 1.534.509,12</text>
+<text x="80" y="247">Loja 2</text><rect x="170" y="225" width="737" height="30" rx="6" fill="#356ac3"/><text x="950" y="247">R$ 1.488.459,06</text>
+<text x="80" y="289">Loja 3</text><rect x="170" y="267" width="725" height="30" rx="6" fill="#356ac3"/><text x="950" y="289">R$ 1.464.025,03</text>
+<text x="80" y="331">Loja 4</text><rect x="170" y="309" width="686" height="30" rx="6" fill="#356ac3"/><text x="950" y="331">R$ 1.384.497,58</text>
+<text x="80" y="388">Loja 1</text><rect x="170" y="366" width="746" height="24" rx="5" fill="#1d8a72"/><text x="950" y="385">3,98</text>
+<text x="80" y="421">Loja 2</text><rect x="170" y="399" width="758" height="24" rx="5" fill="#1d8a72"/><text x="950" y="418">4,04</text>
+<text x="80" y="454">Loja 3</text><rect x="170" y="432" width="760" height="24" rx="5" fill="#1d8a72"/><text x="950" y="451">4,05</text>
+<text x="80" y="487">Loja 4</text><rect x="170" y="465" width="750" height="24" rx="5" fill="#1d8a72"/><text x="950" y="484">4,00</text>
+<text x="80" y="545">Loja 1</text><rect x="170" y="523" width="760" height="24" rx="5" fill="#d28a32"/><text x="950" y="542">R$ 34,69</text>
+<text x="80" y="578">Loja 2</text><rect x="170" y="556" width="737" height="24" rx="5" fill="#d28a32"/><text x="950" y="575">R$ 33,62</text>
+</g>
+<text x="60" y="606" font-family="Arial,sans-serif" font-size="13" fill="#596579">Fonte: bases públicas do desafio Alura. Indicadores descritivos; soma dos preços não comprova faturamento.</text>
+</svg>
